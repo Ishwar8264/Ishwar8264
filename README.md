@@ -1,15 +1,15 @@
 [![MasterHead](https://cdn.pixabay.com/photo/2020/06/12/19/02/artificial-intelligence-5291510_1280.jpg)](https://sumansauravmay.github.io)
 <h1 align="center">Hi 👋, I'm Ishwar Sahani</h1>
-<h3 align="center">A passionate Full Stack Web Developer</h3>
+<h3 align="center">A Passionate Mern Full Stack Developer</h3>
 
 <img width="400" align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="animated"/>
 
 # 💫 About Me:
-- 🌱 I’m a **MERN developer** and have around a year of front-end experience.
+- 🌱 I’m a **Front End developer** and have Around 2 year of front-end experience.
 
-- 👨‍💻 All of my projects are available at 
+- 👨‍💻 All of My Projects Are Available at 
 
-- 💬 Ask me about **HTML, CSS, JS, React.js, Next.js, Redux, Storybook, Typescript**
+- 💬 Ask me About **HTML, CSS3, JS, React vites, Next.js, Redux, Tailwin, Typescript**
 
 - 📫 How to reach me **ishwar.sahani119@gmail.com**
 - 📄 Know about my experiences []

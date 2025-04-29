@@ -1,42 +1,95 @@
-[![MasterHead](https://cdn.pixabay.com/photo/2020/06/12/19/02/artificial-intelligence-5291510_1280.jpg)](https://sumansauravmay.github.io)
+[![MasterHead](https://cdn.pixabay.com/photo/2020/06/12/19/02/artificial-intelligence-5291510_1280.jpg)](https://ishwar8264.github.io)
+
 <h1 align="center">Hi 👋, I'm Ishwar Sahani</h1>
-<h3 align="center">A Passionate Mern Full Stack Developer</h3>
+<h3 align="center">🚀 Passionate MERN Stack Developer | Frontend Specialist | UI Enthusiast</h3>
 
-<img width="400" align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="animated"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=535&lines=Welcome+to+my+GitHub+Profile!;Crafting+Seamless+User+Experiences;React+%7C+Next.js+%7C+TailwindCSS+%7C+TypeScript;Open+to+Collaborations+%26+Opportunities" alt="Typing SVG" />
+</p>
 
-# 💫 About Me:
-- 🌱 I’m a **Front End developer** and have Around 2 year of front-end experience.
+<div align="center">
+  <img src="https://ishwar8264.github.io/images/img/img-2.jpeg" alt="Ishwar Sahani" width="250" style="border-radius: 50%; border: 4px solid #22D3EE; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+</div>
 
-- 👨‍💻 All of My Projects Are Available at 
+## 🌟 About Me
 
-- 💬 Ask me About **HTML, CSS3, JS, React vites, Next.js, Redux, Tailwin, Typescript**
+- 💼 **Frontend Developer** with 2+ years of experience building responsive web applications
+- 🔭 Currently working with **Laravel frontend** and mastering **Next.js 14**
+- 🌱 Learning **Advanced TypeScript** and **Micro-frontend Architecture**
+- 🎨 UI/UX enthusiast who loves **Tailwind CSS** and **Framer Motion**
+- 📫 Reach me at: **ishwar.sahani119@gmail.com**
+- 🌐 Portfolio: [ishwar8264.github.io](https://ishwar8264.github.io) | [LinkedIn](https://www.linkedin.com/in/ishwarsahani)
 
-- 📫 How to reach me **ishwar.sahani119@gmail.com**
-- 📄 Know about my experiences []
-- 📄 <a href="">Portfolio</a> 
-- 📄 <a href="https://www.linkedin.com/in/ishwarsahani/">LinkedIn</a> 
-<!-- <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/suman-saurav-06896b231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suman-saurav-06896b231/" height="30" width="40" /></a>
-</p> -->
+---
 
-<h2 align="left">Languages and Tools</h2>
+## 🛠 Tech Stack
 
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,materialui" />
+</p>
 
-# 📊 GitHub Stats
-<!-- <h2 align="center">📊 GitHub Stats</h2> -->
-<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ishwar8264&show_icons=true&locale=en&layout=compact" alt="Ishwar" /></p>
+### Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,laravel,php" />
+</p>
 
+### Tools & More
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,netlify" />
+</p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ishwar8264&show_icons=true&locale=en" alt="Ishwar8264" /></p>
+---
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ishwar8264" alt="Ishwar8264" /></p>
+## 📊 GitHub Analytics
 
-## 🏆 GitHub Trophies
-<!-- <h2 align="center">🏆 GitHub Trophies</h2> -->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ishwar8264" alt="Trophy" /></a> </p>
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ishwar8264&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Ishwar's stats"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishwar8264&layout=compact&langs_count=8&theme=radical" alt="Top Languages"/>
+  
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ishwar8264&theme=radical&fire=22D3EE" alt="GitHub Streak"/>
+  
+</div>
 
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ishwar8264&theme=radical&row=2&column=3&margin-w=15&no-bg=true" alt="Trophies"/>
+</p>
+
+---
+
+## ✍️ Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ishwarsahani/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ishwar.sahani119@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://ishwar8264.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/Ishwar8264" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ishwar8264&label=Profile%20views&color=0e75b6&style=flat" alt="Ishwar8264" /> 
+</p>

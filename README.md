@@ -8,7 +8,20 @@
 </p>
 
 <div align="center">
-  <img src="https://ishwar8264.github.io/images/img/img-2.jpeg" alt="Ishwar Sahani" width="250" style="border-radius: 50%; border: 4px solid #22D3EE; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+ <img 
+  src="https://ishwar8264.github.io/images/img/img-2.jpeg" 
+  alt="Ishwar Sahani" 
+  width="350" 
+  height="350" 
+  style="
+    border-radius: 50%; 
+    border: 4px solid #22D3EE; 
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2); 
+    object-fit: cover; 
+    display: block;
+    object-position: center;"
+/>
+
 </div>
 
 ## 🌟 About Me
